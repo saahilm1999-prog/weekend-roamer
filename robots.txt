@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saahilm1999-prog.github.io/weekend-roamer/sitemap.xml
